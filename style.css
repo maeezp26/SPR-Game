@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(./img/spr.jpg)  no-repeat ;
+    background-size: 951px;
+   
+    color: azure;
+    font-size: 2.8rem;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    color: rgb(66, 169, 174);
+
+}
+
+h2{
+    font-size: 4.5rem;
+    
+}
